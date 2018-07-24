@@ -1,1 +1,2 @@
 # champion
+The Champion distribution is a boilerplate for building webcomponent based solutions in Backdrop. It's an attempt to make Backdrop THE number 1 solution / workflow for developing with webcomponents. While not requiring Polymer, a lot of the tooling of Polymer helps influence the webcomponents module which this is dependent upon. HAX is also thrown in so, you know, you can create amazing stuff with HAX wired components.
